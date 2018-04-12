@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ritx-cyber501x",
+    "description": "",
+    "home_page_url": "https://therealmccoy.github.io/ritx-cyber501x",
+    "feed_url": "https://therealmccoy.github.io/ritx-cyber501x/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "abhishek rai"
+    },
+    "items": [
+        {
+            "id": "https://therealmccoy.github.io/ritx-cyber501x/notes-from-unit-1-computing-security-concepts-and-problems-1/",
+            "url": "https://therealmccoy.github.io/ritx-cyber501x/notes-from-unit-1-computing-security-concepts-and-problems-1/",
+            "title": "Notes From -  Unit 1: Computing Security Concepts and Problems 1 ",
+            "content_html": "<h4>A. Defining Cybersecurity:</h4>\n<p><br>i) Cyber security is a great umbrella term referring to protecting the confidentiality, integrity, and availability of computing devices and networks, hardware, software and most importantly, data and information.</p>\n<p><br>ii) Cyber security involves times when data or information is in transit, being processed, and at rest.</p>\n<p>iii) The weakest link in cybersecurity framework are the humans, and they often fall to victimm to social engineering attacks, making all products, procedures redundant in the entire framework.</p>\n<p>iv) Insiders are a much greater threat, and can do far greater damage.They already have some level of access, means, and opportunity.</p>\n<p>v) Treating each attack as an isolated incident is a huge mistake. There needs to be greater intelligence, correlated attacks, to previous attacks,both within a company and between companies.<br><br></p>\n<h4>B.) Vulnerabilities:</h4>\n<p>The security mindset involves thinking about how things can be made to fail. It involves thinking like an attacker, an adversary or a criminal.<br><br></p>\n<h4>C.) Personal Security:</h4>\n<p>Attacks are becoming increasingly complex, relying on a combination of techniques,including exploitation of software vulnerabilities, and improper configuration,malicious software, malware, and social engineering.<br><br></p>\n<h4>D.) Who are the hackers?:</h4>\n<p>i) A hacker is someone who thinks outside the box, is technologically-inclined,and finds unconventional solutions to problems, focusing on what is important.</p>\n<p>ii) Cracker was the original term for a malicious hacker.</p>\n<p>iii) Script kiddies are inexperienced crackers, who use scripts and programs developed by others.They often don't know what they're clicking or initiating, nor do they have any idea of the scope, or consequences of their actions.</p>\n<p>iv) The FBI define the motivation of individuals who commit espionage against the country,with the acronym, MICE, money, ideology, compromise or coercion, ego or extortion.</p>\n<p>v) Researcher, Max Kilger, proposed that the motivations for the hacker community can be thought of as MEECES, money, ego,<br>entertainment, cause, entrance, and status.<br><br></p>\n<h4>E.) Data Breaches:</h4>\n<p>i) Announced in 2013, Target, 70 million customers affected.The breach started when credentials from their HVAC company were stolen.</p>\n<p>ii) The breach started because JP Morgan's security team didn't upgrade a server with two-factor authentication.</p>\n<p>iii) Home Depot, 56 million customers affected.Like Target, the breach started from credentials stolen from a third-party vendor.Unpatched Windows systems were also directly in the mix.</p>\n<p>iv) Major League Baseball's Houston Astros.A front office executive went from the St. Louis Cardinals to the Houston Astros, changing jobs,and was required to turn his laptop and password.A Cardinals executive tried the former executive's old password on the computer systems in Houston, his new digs.After mixing and matching with the old Cardinals' password, he got in.</p>\n<p>v) The Ukraine power grid was hacked and would be again the following year, 2016.The first attacks started when workers clicked on an attachment,enabling macros in a Microsoft Word document.<br><br></p>",
+            "author": {
+                "name": "abhishek rai"
+            },
+            "tags": [
+                   "RITx",
+                   "RIT",
+                   "EDx",
+                   "CyberSecurity",
+                   "ComputingSecurity",
+                   "CYBER501x"
+            ],
+            "date_published": "2018-04-12T10:45:57+05:30",
+            "date_modified": "2018-04-12T10:47:15+05:30"
+        }
+    ]
+}

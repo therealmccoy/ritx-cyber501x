@@ -3,12 +3,31 @@
     <title>ritx-cyber501x</title>
     <link href="https://therealmccoy.github.io/ritx-cyber501x/feed.xml" rel="self" />
     <link href="https://therealmccoy.github.io/ritx-cyber501x" />
-    <updated>2018-04-13T12:32:48+05:30</updated>
+    <updated>2018-04-13T12:52:53+05:30</updated>
     <author>
         <name>abhishek rai</name>
     </author>
     <id>https://therealmccoy.github.io/ritx-cyber501x</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>abhishek rai</name>
+        </author>
+        <link href="https://therealmccoy.github.io/ritx-cyber501x/about/"/>
+        <id>https://therealmccoy.github.io/ritx-cyber501x/about/</id>
+            <category term="CYBER501x"/>
+
+        <updated>2018-04-13T12:52:03+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--info">This is the site where notes taken while studying the Rochester Institute of Technology's online course <a href="https://courses.edx.org/courses/course-v1:RITx+CYBER501x+1T2018a/course/">RITx:CYBER501x</a> on EdX is published.</p>
+<p class="msg msg--info">These notes also include research done online while studying the course, with the help of reference material provided in the course, we well as associated content found and studied online.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lessons from the Target data breach of 2013</title>
         <author>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://therealmccoy.github.io/ritx-cyber501x/about/",
+            "url": "https://therealmccoy.github.io/ritx-cyber501x/about/",
+            "title": "About",
+            "content_html": "<p class=\"msg msg--info\">This is the site where notes taken while studying the Rochester Institute of Technology's online course <a href=\"https://courses.edx.org/courses/course-v1:RITx+CYBER501x+1T2018a/course/\">RITx:CYBER501x</a> on EdX is published.</p>\n<p class=\"msg msg--info\">These notes also include research done online while studying the course, with the help of reference material provided in the course, we well as associated content found and studied online.</p>\n<p> </p>",
+            "author": {
+                "name": "abhishek rai"
+            },
+            "tags": [
+                   "CYBER501x"
+            ],
+            "date_published": "2018-04-13T12:52:03+05:30",
+            "date_modified": "2018-04-13T12:52:03+05:30"
+        },
+        {
             "id": "https://therealmccoy.github.io/ritx-cyber501x/lessons-from-the-target-data-breach-of-2013/",
             "url": "https://therealmccoy.github.io/ritx-cyber501x/lessons-from-the-target-data-breach-of-2013/",
             "title": "Lessons from the Target data breach of 2013",

@@ -3,7 +3,7 @@
     <title>ritx-cyber501x</title>
     <link href="https://therealmccoy.github.io/ritx-cyber501x/feed.xml" rel="self" />
     <link href="https://therealmccoy.github.io/ritx-cyber501x" />
-    <updated>2018-04-13T11:49:47+05:30</updated>
+    <updated>2018-04-13T12:32:48+05:30</updated>
     <author>
         <name>abhishek rai</name>
     </author>
@@ -71,11 +71,13 @@
             <category term="ComputingSecurity"/>
             <category term="CYBER501x"/>
 
-        <updated>2018-04-12T10:47:15+05:30</updated>
+        <updated>2018-04-13T12:08:51+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <h4>A. Defining Cybersecurity:</h4>
+                <p class="msg msg--info">**********************************************************************************<br>**********************************************************************************<br>File Name: Unit-One-Notes<br>About: Notes from course material of unit one of RITx:CYBER501x course on Edx.<br>Author: Abhishek Rai<br>Date: 12th April 2018<br>Day: Thursday<br>**********************************************************************************<br>**********************************************************************************</p>
+<p> </p>
+<h4>A. Defining Cybersecurity:</h4>
 <p><br>i) Cyber security is a great umbrella term referring to protecting the confidentiality, integrity, and availability of computing devices and networks, hardware, software and most importantly, data and information.</p>
 <p><br>ii) Cyber security involves times when data or information is in transit, being processed, and at rest.</p>
 <p>iii) The weakest link in cybersecurity framework are the humans, and they often fall to victimm to social engineering attacks, making all products, procedures redundant in the entire framework.</p>

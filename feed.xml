@@ -3,12 +3,60 @@
     <title>ritx-cyber501x</title>
     <link href="https://therealmccoy.github.io/ritx-cyber501x/feed.xml" rel="self" />
     <link href="https://therealmccoy.github.io/ritx-cyber501x" />
-    <updated>2018-04-12T10:47:43+05:30</updated>
+    <updated>2018-04-13T11:49:47+05:30</updated>
     <author>
         <name>abhishek rai</name>
     </author>
     <id>https://therealmccoy.github.io/ritx-cyber501x</id>
 
+    <entry>
+        <title>Lessons from the Target data breach of 2013</title>
+        <author>
+            <name>abhishek rai</name>
+        </author>
+        <link href="https://therealmccoy.github.io/ritx-cyber501x/lessons-from-the-target-data-breach-of-2013/"/>
+        <id>https://therealmccoy.github.io/ritx-cyber501x/lessons-from-the-target-data-breach-of-2013/</id>
+            <category term="dataBreach"/>
+            <category term="CyberSecurity"/>
+            <category term="CYBER501x"/>
+
+        <updated>2018-04-13T11:27:07+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--info">***************************************************************************************<br>***************************************************************************************<br>File Name: Additional-Resources-General-Unit-One-A-13042018<br>About: Notes from additional resources (General) supplied in unit one of RITx:CYBER501x course on Edx.<br>Author: Abhishek Rai<br>Date: 13th April 2018<br>Day: Friday<br>***************************************************************************************<br>***************************************************************************************<br><br></p>
+<h2>|||&gt; 11 Steps Attackers Took to Crack Target &lt;|||</h2>
+<p> <a href="https://www.cio.com/article/2600345/security0/11-steps-attackers-took-to-crack-target.html?page=2">Link to the article</a><br>==========================================================<br><br></p>
+<h5>1. Vendors - High Risk</h5>
+<p><br> a. Can compromise information security, if they are non-compliant.<br> b. Access should be limited and quarantined. But how?<br> - Requires audit of what is essential for them.<br> - Access on Need-To-Know basis only.<br> - Pertinent access to parent network is evil, as far as vendors are concerned.</p>
+<h5><br>2. Malware - Citadel, a general purpose malware used.</h5>
+<p> </p>
+<p>- Research on what it is and how it works? [#td]<br> - Other similar tools? [#td]<br> - Patches available? [#td]<br> - How to know when the malware installs itself?<br> - Signatures? [#td]</p>
+<h5><br><br>3. Web services dedicated to vendors</h5>
+<p><br> - Application Security?<br> - Access to whom and why?<br> - 2FA on these systems?<br> - Credentials security?<br> - Routine forced update?<br> - Storage audit?<br> - Automatic credentials expiry, in case of personnel movement, internal or external.</p>
+<h5><br>4. Which kind of files are allowed to be uploaded in to the system?</h5>
+<h5><br><br>5. "Hiding in plain sight", like renaming the malicious components as popular and important files / components?</h5>
+<h5><br>6. Obfuscation of Active Directory</h5>
+<p><br> - Storing everything in a single directory is high risk.<br> - Restricted access to directory querying.<br> - LDAP Protocol [#td]<br> - Obfuscation of services string, so that their purpose cannot be inferred just by reading their name.</p>
+<h5><br>7. Security of DNS Server</h5>
+<p><br> - Query is allowed?</p>
+<h5><br>8. "Pass the hash" attack technique [#td]</h5>
+<h5><br><br>9. New account alert to domain admin group or any such administrative group.</h5>
+<p><br> - Account addition with 2FA only</p>
+<h5><br>10. Monitoring of access paterns.</h5>
+<p><br> - Admin accounts<br> - Domain accounts</p>
+<h5><br>11. Monitoring for reconnaisance</h5>
+<p><br> - Querying<br> - Is there any history or precedence for such querying?</p>
+<h5><br>12. Angry IP Scanner (Tool Used) [#td]</h5>
+<h5><br><br>13. Porrt forwarding tool (Tool Used) [#td]</h5>
+<h5><br><br>14. Microsoft PSExec utility (a telnet-replacement for executing processes on other systems) (Tool Used) [#td]</h5>
+<h5><br><br>15. Microsoft Orchestrator management solution to gain persistent access. (Tool Used) [#td]</h5>
+<h5><br>16. Custom written malware tool - Kaptoxa (Tool Used)</h5>
+<h5><br><br>17. From the article:</h5>
+<p class="msg msg--highlight "><br><br>Be'ery recommends that organizations take the following steps to protect themselves: <br> <br> a. Harden access controls. Monitor and profile access patterns to systems to identify abnormal and rogue access patterns. Where possible, use multi-factor authentication to sensitive systems to reduce risks associated with theft of credentials. Segregate networks, limit allowed protocols usage and limit users' excessive privileges.<br> <br> b. Monitor users' lists for the addition of new users, especially privileged ones.<br> <br> c. Monitor for signs of reconnaissance and information gathering. Pay special attention to excessive and abnormal LDAP queries.<br> <br> d. For sensitive, single-purpose servers, consider whitelisting of allowed programs.<br> <br> e. Don't rely on anti-malware solutions as a primary mitigation measure since attackers mostly leverage legitimate IT tools.<br> <br> f. Place security and monitoring controls around Active Directory as it is involved in nearly all stages of the attack.<br> <br> g. Participate in Information Sharing and Analysis Center (ISAC) and Cyber Intelligence Sharing Center (CISC) groups to gain valuable intelligence on attackers' Tactics, Techniques and Procedures (TTPs).</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Notes From -  Unit 1: Computing Security Concepts and Problems 1 </title>
         <author>

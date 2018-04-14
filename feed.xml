@@ -3,12 +3,51 @@
     <title>ritx-cyber501x</title>
     <link href="https://therealmccoy.github.io/ritx-cyber501x/feed.xml" rel="self" />
     <link href="https://therealmccoy.github.io/ritx-cyber501x" />
-    <updated>2018-04-13T12:52:53+05:30</updated>
+    <updated>2018-04-14T06:13:44+05:30</updated>
     <author>
         <name>abhishek rai</name>
     </author>
     <id>https://therealmccoy.github.io/ritx-cyber501x</id>
 
+    <entry>
+        <title>Notes -  Unit 2: Computing Security Concepts and Problems 2 </title>
+        <author>
+            <name>abhishek rai</name>
+        </author>
+        <link href="https://therealmccoy.github.io/ritx-cyber501x/notes-unit-2-computing-security-concepts-and-problems-2/"/>
+        <id>https://therealmccoy.github.io/ritx-cyber501x/notes-unit-2-computing-security-concepts-and-problems-2/</id>
+            <category term="RITx"/>
+            <category term="CyberSecurity"/>
+            <category term="CYBER501x"/>
+
+        <updated>2018-04-14T06:13:12+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight  msg--info">***************************************************************************************<br>***************************************************************************************<br>File Name: Unit-Two-Notes-501x-14042018 <br>About: Notes from unit two of RITx:CYBER501x course on Edx. <br> Unit 2: Computing Security Concepts and Problems 2 <br>Author: Abhishek Rai<br>Date: 14th April 2018<br>Day: Saturday<br>***************************************************************************************<br>***************************************************************************************<br><br></p>
+<p> </p>
+<h5><br>A. The CIA Model</h5>
+<p><br> i) The C stands for confidentiality.</p>
+<p>Cybersecurity requires privacy in data and information.Certain people, devices, or processes should be permitted or restricted from seeing data, files,and items, like username, password combinations.Confidentiality is concerned with simply viewing data or information.</p>
+<p>The main way confidentiality is accomplished is through encryption.<br><br> ii) The I in this CIA model stands for integrity.</p>
+<p>Cybersecurity requires us to feel safe that data transmitted, processed,and stored has not been changed from its original form,either accidentally or maliciously.</p>
+<p>The main way integrity is accomplished is through hashing.<br><br> iii) The last letter of CIA, the A, stands for availability.</p>
+<p>With all your cyber security measures in place, dealing with hardware, software, people,processes, and more, users who are authorized to do their jobs should be able to do so.<br><br></p>
+<h5><br>B.) The AAA Model: Authentication</h5>
+<p><br> i) The first A refers to authentication, which is the process of proving you are who you say you are.<br><br> ii) Authentication requires proof in one of three possible forms: Something you know,like a password; something you have, like a key fob; something you are, biometrics.<br><br> iii) 2FA - Sending codes to your phone through SMS, short message service text messages.</p>
+<p>You use these codes that are texted to your phone in addition to a password to access an account.</p>
+<pre>NIST, the National Institute of Standards and Technology subsequently denounced two-factor authentication through text messages.<br><br>They stated that 2FA with SMS should be deprecated immediately due to the fact that SMS messages can be intercepted or redirected.</pre>
+<h5><br>C.) The AAA Model: Authorization</h5>
+<p>i) Authorization means that based on the user's credentials, we let him do certain things,we let him see certain things but not others.<br><br> ii) This is tied into the principle of least privilege, which states users and even devices,programs, and processes should be granted enough permissions to do their required functions and not a single drop more.</p>
+<h5><br><br>D.) The AAA Model: Accounting</h5>
+<p><br> i) Keeping track of users and their actions is very important.From a forensics perspective, tracing back to events leading up to a cybersecurity incident can prove very valuable to an investigation.<br><br> ii) A generic account for administrators or managers to share is not a very good idea.The accounting can't tie actions to an individual.</p>
+<h5><br> E.) Threat Agents</h5>
+<p class="msg msg--highlight "><br> A threat agent—or threat actor—is anything that can possibly damage or disrupt the system’s ability to perform as it needs to.<br> This isn’t limited to malicious actors like hackers.<br><br> Individuals within a threat population; Practically anyone and anything can, under the right circumstances, be a threat agent – the well-intentioned, but inept, computer operator who trashes a daily batch job by typing the wrong command, the regulator performing an audit, or the squirrel that chews through a data cable.<br><br> Also includes God (as in “acts of”), “Mother Nature,” and random chance.<br><br> Non-Human Elements: Floods, Lightning strikes, Plumbing, Viruses, Fire, Electrical, Air (dust), Heat control</p>
+<p><br> i) A threat is a looming danger that can change or damage your assets.<br> Think of the actual actions like fires, floods, hackers getting into your network,malware infecting your systems, your server crashing without backups to go to,or even a cleaner accidentally pulling out the plug to an important server.<br> Threat agents or actors are the ones carrying out the threats.<br><br> ii) A vulnerability is a weakness, a flaw in a program, device, network, and even a person.<br> Weak authentication checks, default user name password combinations,incorrectly configured firewalls, and even a gullible or naive employee are all vulnerabilities.<br><br> iii) When threat actors carry out the threat, they exploit the vulnerability.<br> Exploit can be a verb meaning penetrating a system to exploit, or a noun meaning the tool or method used to penetrate a system and exploit.<br><br> iv) Risk is the combination of the probability of an event or loss from zero to 100% and its consequence or impact.<br><br> v) There are three things that can be done to risk but eliminate is not one of them.<br> You could reduce or mitigate the risk.</p>
+<pre>We can eliminate some vulnerabilities and block some threats,but nothing is ever going to be 100%.<br><br>Encryption, hashing, VPN's, firewalls, intrusion detection and prevention systems, and more can reduce the risk.<br><br>Another thing you can do to risk is transfer it.You can purchase cybersecurity insurance, which is a growing industry now,or even use cloud computing and another company's resources.</pre>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
